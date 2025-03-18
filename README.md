@@ -1,6 +1,4 @@
-## 기본 http 지식전달용 2
-
-## 이글루코퍼레이션 원치현 HTTP 메서드, 상태코드 정리
+## HTTP, 상태코드 정리
 장비에서의 상태값과 HTTP 가 반환하는 응답값(응답코드)의 값이 일치 하지 않을 수 있음 (장비의 설정에 따라)
 status_code를 보는 것이 정확할 수 있음
 ![KakaoTalk_20250127_154041671](https://github.com/user-attachments/assets/cf7a36ae-2f88-4125-b14e-d1d46abdfb15)
